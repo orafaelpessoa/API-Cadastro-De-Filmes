@@ -1,0 +1,15 @@
+--
+-- Criar banco de dados
+--CREATE DATABASE nome_do_banco;
+
+-- Usar o banco de dados
+--USE nome_do_banco;
+
+-- Criar a tabela de filmes (gerada automaticamente pelo Sequelize)
+--CREATE TABLE Filmes (
+  --id INT AUTO_INCREMENT PRIMARY KEY,
+  --titulo VARCHAR(255) NOT NULL,
+  --ator VARCHAR(255) NOT NULL,
+  --faixaEtaria VARCHAR(50) NOT NULL,
+  --genero VARCHAR(100) NOT NULL
+--);
